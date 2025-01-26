@@ -1,4 +1,4 @@
-# Brainwave-task2
+# ECommerce Website
 Nuke Store 
 Overview-
 Nuke Store is a simple, responsive e-commerce website focused on selling shoes. This project showcases a basic implementation of a product listing page, a shopping cart, and a checkout process. The design ensures a smooth user experience across various devices.
